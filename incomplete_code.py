@@ -1,4 +1,5 @@
 from abc import ABC,abstractmethod
+#Transportation is an abstract class 
 class Transportation(ABC):
     def __init__(self, start_place, end_place, distance):
         self.start = start_place
