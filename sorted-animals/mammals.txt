@@ -13,7 +13,6 @@ Beaver
 Bison
 Boar
 Buffalo, African
-Galago
 Camel
 Caribou
 Cat
@@ -36,6 +35,7 @@ Elk (wapiti)
 Emu
 Ferret
 Fox
+Galago
 Gaur
 Gazelle
 Gerbil
