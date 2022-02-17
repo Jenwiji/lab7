@@ -59,3 +59,56 @@ Kangaroo
 Koala
 Kouprey
 Kudu
+Lemur
+Leopard
+Lion
+Llama
+Loris
+Manatee
+Marten
+Meerkat
+Mink
+Mole
+Monkey
+Moose
+Mouse
+Mule
+Narwhal
+Okapi
+Opossum
+Oryx
+Otter
+Ox
+Panther
+Pig
+Pony
+Porcupine
+Porpoise
+Prairie Dog
+Rabbit
+Raccoon
+Ram
+Rat
+Red deer
+Red panda
+Reindeer (caribou)
+Rhinoceros
+Sea lion
+Seal
+Sheep
+Shrew
+Skunk
+Squirrel
+Tapir
+Tarsier
+Tiger
+Wallaby
+Walrus
+Water buffalo
+Weasel
+Whale
+Wolf
+Wolverine
+Wombat
+Yak
+Zebra
