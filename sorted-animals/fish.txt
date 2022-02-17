@@ -6,3 +6,12 @@ Fish
 Goldfish
 Herring
 Hummingbird
+Lobster
+Octopus
+Salmon
+Sardine
+Seahorse
+Shrimp
+Squid
+Stingray
+Trout
