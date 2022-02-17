@@ -37,7 +37,7 @@ class Train(Transportation):
         return cost
 
 w = Walk("KMITL", "KMITL SCB Bank", 0.6)
-print("\n", w.find_cost())
+print(w.find_cost())
 
 ta1 = Taxi("KMITL SCB Bank", "Ladkrabang Station", 5)
 print(ta1.find_cost())
