@@ -1,6 +1,5 @@
 from abc import ABC,abstractmethod
 class Transportation(ABC):
-
     def __init__(self, start_place, end_place, distance):
         self.start = start_place
         self.end = end_place
@@ -11,7 +10,6 @@ class Transportation(ABC):
         pass
 
 class Walk(Transportation):
-
     def __init__(self, start_place, end_place, distance):
         super().__init__(start_place, end_place, distance)
 
@@ -20,7 +18,6 @@ class Walk(Transportation):
         return cost
 
 class Taxi(Transportation):
-
     def __init__(self, start_place, end_place, distance):
         super().__init__(start_place, end_place, distance)
 
@@ -30,7 +27,6 @@ class Taxi(Transportation):
         return cost
 
 class Train(Transportation):
-
     def __init__(self,start_place, end_place, distance, station):
         super().__init__(start_place, end_place, distance)
         self.station = station
@@ -41,7 +37,7 @@ class Train(Transportation):
         return cost
 
 w = Walk("KMITL", "KMITL SCB Bank", 0.6)
-print(w.find_cost())
+print("\n", w.find_cost())
 
 ta1 = Taxi("KMITL SCB Bank", "Ladkrabang Station", 5)
 print(ta1.find_cost())
